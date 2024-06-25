@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 list_of_files=[
     ".github/workflows/.gitkeep",
-    ".src/__init__.py",
+    "src/__init__.py",
     "src/components/__init__.py",
     "src/components/data_ingestion.py",
     "src/components/data_tranformation.py",
